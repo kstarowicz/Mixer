@@ -2,6 +2,7 @@ import { Form, redirect,useNavigation } from 'react-router-dom';
 import axios from 'axios';
 import { toast } from 'react-toastify';
 
+
 //const newsletterUrl =poprawić aby pojawiał sie pojawiało okienko jak kiedyś sukcesem wysłano maila
 const newsletterUrl = 'https://www.coctail-api.com/cocktails-newsletter';
 
