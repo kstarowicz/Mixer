@@ -11,7 +11,7 @@ import {
 
 
 import { loader as landingLoader } from "./pages/Landing";
-import { loader singleCocktailLoader } from "./pages/Cocktail";
+import { loader as singleCocktailLoader } from "./pages/Cocktail";
 const router = createBrowserRouter([
   {
     path:'/',

@@ -1,5 +1,5 @@
 import Wrapper from "../assets/wrappers/CocktailList";
-import CoctailCard from "./CoctailCard";
+import CoctailCard from "./CocktailCard";
 
 
 const CoctailList = ({drinks}) => {
